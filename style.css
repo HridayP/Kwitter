@@ -4,10 +4,6 @@ html, body
   margin: 0;
 }
 
-body
-{
-background-image: linear-gradient(to right top, #65f902a6, #9a04ff, #00fff2, #bafe00, #ff0597);
-}
 
 .header
 {
